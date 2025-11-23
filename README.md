@@ -13,6 +13,12 @@ This project analyzes road accident data across the UK using Power BI. It includ
 ## 📁 Files Included
 - Power BI `.pbix` file – Interactive dashboard
 - Screenshot – Dashboard visual
+ ![Uploading image.png…]()
+
+- ## 📁 Dataset
+Due to GitHub’s file size limit, the full cleaned dataset (50MB) is hosted externally:
+🔗 [Download Road Accident Data (Cleaned)](https://drive.google.com/file/d/1gzAwIrVvTC1ZckKR_-7iuA6qnlhPXraI/view?usp=sharing)
+
 
 ## 🔗 Live Preview
 Screenshots and walkthrough available in LinkedIn post , profile URL : https://www.linkedin.com/in/sameerbashask-portfolio/.
