@@ -11,9 +11,8 @@ This project analyzes road accident data across the UK using Power BI. It includ
 - UK Map of Accident Locations
 
 ## 📁 Files Included
-- `Road_Accident_Data.xlsx` – Raw dataset
 - Power BI `.pbix` file – Interactive dashboard
-- Screenshots – Dashboard visuals
+- Screenshot – Dashboard visual
 
 ## 🔗 Live Preview
 Screenshots and walkthrough available in LinkedIn post , profile URL : https://www.linkedin.com/in/sameerbashask-portfolio/.
